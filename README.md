@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vinaysingh-dhurve-85675792/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinay-singh-dhurve-85675792/" height="30" width="40" /></a>
-<a href="https://fb.com/vinaysingh dhurve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinaysingh dhurve" height="30" width="40" /></a>
+<a href="https://www.facebook.com/vdhurve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinaysingh dhurve" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
