@@ -18,7 +18,7 @@
 
 <h3>- 📄 Know about my experiences/certificates [Vinay's resume](https://drive.google.com/file/d/1fj8WTM20EhL217XLMK9krJ4rBlpjmewB/view?usp=drive_link)</h3>
 
-<h1>- 📫 How to reach me **vdhurve58@gmail.com**</h1>
+<h1>- 📫 How to reach me <a href="mailto:vdhurve58@gmail.com">vdhurve58@gmail.com</a></h1>
 
 
 
