@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vdhurve58@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fj8WTM20EhL217XLMK9krJ4rBlpjmewB/view?usp=drive_link](https://drive.google.com/file/d/1fj8WTM20EhL217XLMK9krJ4rBlpjmewB/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dqsbbmGe_au1CIAXqS1_0KOrS6px-NxV/view?usp=drive_link](https://drive.google.com/file/d/1dqsbbmGe_au1CIAXqS1_0KOrS6px-NxV/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
