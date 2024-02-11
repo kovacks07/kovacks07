@@ -16,7 +16,10 @@
 
 <h3>- 💬 Ask me about **react, html ,css , javascript , java**</h3>
 
-<h3>- 📄 Know about my experiences/certificates [Vinay's docs](https://drive.google.com/file/d/1a3RFLOXvPsTbOCu22eudQcBJ_RiZcIhq/view?usp=drive_link)</h3>
+<h3>- 📄 view my Resume here [Resume](https://drive.google.com/file/d/1a3RFLOXvPsTbOCu22eudQcBJ_RiZcIhq/view?usp=drive_link)</h3>
+
+<h3>- 📄 Know about my experiences/certificates [Docs_VINAY](https://drive.google.com/drive/folders/13LVLmkiJbixtJz_8ShicJ1rlT50oLpVB?usp=drive_link)</h3>
+
 
 <h1>- 📫 How to reach me <a href="mailto:vdhurve58@gmail.com">vdhurve58@gmail.com</a></h1>
 
