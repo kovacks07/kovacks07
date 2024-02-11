@@ -1,5 +1,5 @@
 <h1 align="center"> Nǐ hǎo 👋, I'm Vinaysingh dhurve</h1>
-<h3 align="center">A passionate Web_developer from <span style="color: red;">India</span></h3>
+<h3 align="center">A passionate Web_developer from <span style="color: blue;">India</span></h3>
 
 <p align="left"> <img src="https://img.freepik.com/free-photo/top-view-unrecognizable-hacker-performing-cyberattack-night_1098-18706.jpg?w=740&t=st=1705844238~exp=1705844838~hmac=19d66259feffa362bee2561adade6d5e9f631159870c6abe1e426c9ce68f2edf" alt="kovacks07" /> </p>
 
