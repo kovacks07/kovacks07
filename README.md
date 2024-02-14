@@ -10,7 +10,7 @@
  
 <h3>- 🔭 I’m currently working on ** CarRental System **</h3>
 
-<h3>- 👯 I’m looking to collaborate on [CarRental System](https://dynamic-gnome-236a24.netlify.app/)</h3>
+<h3>- 👯 I’m looking to collaborate on [CarRental System](https://quiet-starburst-784abc.netlify.app/)</h3>
 
 <h3>- 👨‍💻 All of my projects are available at [Netlify](https://app.netlify.com/teams/kovacks07/overview)</h3>
 
